@@ -8,10 +8,10 @@ negrito, **negrito**  dois *
 
 riscado, ~~riscado~~ dois ~
 
-Titulos # = titulo principal , ## titulo secundario , ### titulo terceiario
+Titulos # com espaço = titulo principal , ## titulo secundario , ### titulo terceiario
 
-#titulo
+# titulo
 
-##titulo2
+## titulo2
 
-###titulo3
+### titulo3
